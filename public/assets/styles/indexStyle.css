@@ -1,0 +1,18 @@
+@import 'variables.css';
+
+body {
+    background-color: var(--primary-color);
+}
+
+.welcomeDiv {
+    width: 100%;
+    display: flex;
+}
+
+.leftDiv {
+    width: 50%;
+}
+
+.rightDiv {
+    width: 50%;
+}
